@@ -1,9 +1,8 @@
-/* General Page Styling */
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: black; /* Dark background */
-    color: #09ff00;            /* Bright orange text */
+    background-color: black; 
+    color: #09ff00;           
   }
   
   /* Navbar Styling */
@@ -17,20 +16,20 @@ body {
   }
   
   .navbar-logo h1 {
-    color: #00ff26; /* Bright orange for the logo text */
+    color: #00ff26;
     font-family: 'Cursive', sans-serif;
   }
   
   .navbar-links a {
-    color: #04ff00;       /* Same orange for links */
+    color: #04ff00;   
     text-decoration: none;
-    margin: 0 15px;       /* Spacing between links */
+    margin: 0 15px;
     font-size: 18px;
     transition: color 0.3s ease;
   }
   
   .navbar-links a:hover {
-    color: #d7d133;         /* Change color on hover */
+    color: #d7d133;
   }
   
   /* Centered Welcome Text */
@@ -44,7 +43,7 @@ body {
   
   .welcome-text h2 {
     font-size: 48px;
-    color: #ffd500;         /* Bold orange text */
+    color: #ffd500;         
     font-family: 'Cursive', sans-serif;
     text-transform: capitalize;
   }
