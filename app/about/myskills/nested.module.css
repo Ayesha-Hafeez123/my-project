@@ -1,0 +1,12 @@
+.heading {
+    color: hsl(69, 55%, 50%);
+    font-size: 34px;
+    text-align: center;
+   }
+.paragraph{
+     color: aquamarine;
+     text-align: center;
+     font-size: 45px;
+ }
+
+
