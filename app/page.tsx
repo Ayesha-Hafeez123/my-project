@@ -4,7 +4,7 @@ import './page.css'
 
 export default function navbar(){
   return (
-    <div className="homepage">
+    <div>
       <nav className="navbar">
         {/* Left Side: Logo */}
         <div className="navbar-logo">
@@ -22,9 +22,7 @@ export default function navbar(){
 
       {/* Centered Heading */}
       <div className="welcome-text">
-        <centre>
         <h2><i>Welcome My First Next.js Assigment</i></h2>
-        </centre>
       </div>
     </div>
   );
